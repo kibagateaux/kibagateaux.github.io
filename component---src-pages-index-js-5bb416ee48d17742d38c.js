@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{RXBc:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),r=a("Bl7J"),i=a("vrFN");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(i.a,{title:"Home"}),l.a.createElement("h1",null,"Hi I'm Kiba Gateaux"),l.a.createElement("p",null,"A human wanderign the metaverse"),l.a.createElement("p",null,"Connect with me at",l.a.createElement("a",{href:"htpp://twitter.kibia_gateaux/"},"@KibaGateaux"),"on twitter"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-5bb416ee48d17742d38c.js.map
